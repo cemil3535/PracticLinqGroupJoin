@@ -30,3 +30,8 @@ Listing Data:
 LINQ Query:
 
 Perform a group join operation between students and classes, and obtain a result listing the students belonging to that class under each class. Write a LINQ query that prints the results to the screen along with the class name and the names of the students belonging to that class.
+
+## Technologies Used
+- C#
+- Linq
+
